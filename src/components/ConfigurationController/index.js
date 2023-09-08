@@ -47,18 +47,18 @@ const ConfigurationController = () => (
                   onChange={onChangeLeftNavbar}
                 />
                 <label className="label-text" htmlFor="leftNavbar">
-                  LeftNavbar
+                  Left Navbar
                 </label>
               </div>
               <div className="checkbox-container">
                 <input
                   type="checkbox"
-                  id="leftNavbar"
+                  id="RightNavbar"
                   checked={showRightNavbar}
                   onChange={onChangeRightNavbar}
                 />
                 <label className="label-text" htmlFor="RightNavbar">
-                  RightNavbar
+                  Right Navbar
                 </label>
               </div>
             </div>

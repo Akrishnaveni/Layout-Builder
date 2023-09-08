@@ -11,7 +11,7 @@ const Body = () => (
         <div className="body-container">
           {showLeftNavbar ? (
             <div className="left-navbar-container">
-              <h1 className="body-heading">Left NavBar</h1>
+              <h1 className="body-heading">Left Navbar Menu</h1>
               <ul className="list-items">
                 <li className="item">item 1</li>
                 <li className="item">item 2</li>
